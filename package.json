@@ -5,6 +5,7 @@
   "repository": "https://github.com/VictorDanilov/andersen-js-course.git",
   "author": "Viktor Danilov <wikslayer@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "start": "webpack serve",
     "build": "webpack",
