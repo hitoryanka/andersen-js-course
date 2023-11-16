@@ -15,5 +15,5 @@ export function task3Old(params) {
 // При желании, можете использовать стрелочную функцию, вместо обычной
 
 export function task3New(arr) {
-  return [1, 2, ...arr]
+  return [1, 2, ...arr ]
 }
